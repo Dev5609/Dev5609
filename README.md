@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Dev5609/Dev5609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Devansh 👋
 
-Here are some ideas to get you started:
+I'm a Class 12 student and self-taught developer interested in software engineering, AI/ML, and building things with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy experimenting with ideas, working on personal projects, and figuring out how things work. Most of my learning comes from building, breaking, and improving things along the way.
+
+### A little about me
+
+- 🎓 Currently pursuing Class 12 (PCM).
+- 💻 Self-taught developer who enjoys building projects.
+- 🧠 Interested in software engineering, AI/ML, and emerging technology.
+- 🛠️ I enjoy experimenting with tools and turning ideas into working products.
+- 📚 Always learning something new.
+
+### What I'm working towards
+
+I want to pursue software engineering, explore AI/ML more deeply, and build projects that go beyond just being portfolio pieces.
+
+### Find me around the internet
+
+- 🌐 Portfolio: [devanshgoel.vercel.app](https://devanshgoel.vercel.app)
+- 💼 LinkedIn: [devansh-goel09](https://www.linkedin.com/in/devansh-goel09/)
+- 📧 Email: [devanshgoel5609@gmail.com](mailto:devanshgoel5609@gmail.com)
+
+---
+
+*Learning by building. Improving along the way.*
